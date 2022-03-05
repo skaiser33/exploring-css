@@ -1,0 +1,21 @@
+div {
+  margin: 50px;
+}
+
+.circle {
+  background-color:cornflowerblue; 
+  height: 100px;
+  width: 100px;
+  border-radius: 100px;
+}
+
+.triangle {
+  height: 0px;
+  width: 0px;
+  /* border-top: 100px solid rebeccapurple; */
+  border-left: 100px solid transparent;
+  border-right: 100px solid transparent;
+  border-bottom: 100px solid rebeccapurple;
+
+}
+
